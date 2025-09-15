@@ -2,7 +2,7 @@
 
 ## 🎯 Project Overview
 
-A comprehensive Power BI dashboard analyzing road accidents for the Ministry of Transport, focusing on detailed insights and performance metrics for the years 2021 and 2022.
+A comprehensive Power BI dashboard analyzing road accidents for the Ministry of Transport, focusing on detailed insights and performance metrics.
 
 ## 🎥 Demo
 
@@ -151,5 +151,6 @@ For any queries or feedback, feel free to reach out:
 
 - **Name**: Neha Pal
 - **Email**: 11a.neha.pal@gmail.com
+
 
 
